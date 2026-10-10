@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 406" width="490" height="406" role="img" aria-label="Profile info card">
+<style>.l{opacity:0;transform:translateX(-6px);animation:in 0.8s ease-out forwards}@keyframes in{to{opacity:1;transform:translateX(0)}}</style>
+<rect x="0.5" y="0.5" width="489" height="405" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M0.5 10.5 a10 10 0 0 1 10 -10 h469 a10 10 0 0 1 10 10 v18 h-489 z" fill="#f6f8fa"/>
+<line x1="0.5" y1="28.5" x2="489.5" y2="28.5" stroke="#d0d7de"/>
+<circle cx="16" cy="14.5" r="5" fill="#f85149"/>
+<circle cx="32" cy="14.5" r="5" fill="#9a6700"/>
+<circle cx="48" cy="14.5" r="5" fill="#1a7f37"/>
+<text x="245.0" y="18.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace" font-size="11" fill="#59636e">~/neofetch</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace" font-size="12.5">
+<g class="l" style="animation-delay:1.20s"><text x="20" y="54" fill="#1a7f37" font-weight="bold">suraj@dublin</text></g>
+<g class="l" style="animation-delay:1.58s"><text x="20" y="73" fill="#59636e" font-weight="bold">------------</text></g>
+<g class="l" style="animation-delay:1.96s"><text x="20" y="92" fill="#0969da" font-weight="bold">Name</text><text x="102" y="92" fill="#59636e">:</text><text x="112" y="92" fill="#1f2328">Suraj Rakesh Gupta</text></g>
+<g class="l" style="animation-delay:2.34s"><text x="20" y="111" fill="#0969da" font-weight="bold">Role</text><text x="102" y="111" fill="#59636e">:</text><text x="112" y="111" fill="#1f2328">Cyber security graduate, ex-SOC analyst</text></g>
+<g class="l" style="animation-delay:2.72s"><text x="20" y="130" fill="#0969da" font-weight="bold">Location</text><text x="102" y="130" fill="#59636e">:</text><text x="112" y="130" fill="#1f2328">Dublin, Ireland</text></g>
+<g class="l" style="animation-delay:3.10s"><text x="20" y="149" fill="#0969da" font-weight="bold">Now</text><text x="102" y="149" fill="#59636e">:</text><text x="112" y="149" fill="#1f2328">Open to full-time cyber security roles in</text></g>
+<g class="l" style="animation-delay:3.48s"><text x="112" y="168" fill="#1f2328">Ireland</text></g>
+<g class="l" style="animation-delay:3.86s"><text x="20" y="187" fill="#0969da" font-weight="bold">Prev</text><text x="102" y="187" fill="#59636e">:</text><text x="112" y="187" fill="#1f2328">Associate Cyber Security Analyst, 24/7 SOC</text></g>
+<g class="l" style="animation-delay:4.24s"><text x="112" y="206" fill="#1f2328">at Mindtickle (2022-23)</text></g>
+<g class="l" style="animation-delay:4.62s"><text x="20" y="225" fill="#0969da" font-weight="bold">Education</text><text x="102" y="225" fill="#59636e">:</text><text x="112" y="225" fill="#1f2328">MSc Cyber Security, National College of</text></g>
+<g class="l" style="animation-delay:5.00s"><text x="112" y="244" fill="#1f2328">Ireland (2025, 2:1)</text></g>
+<g class="l" style="animation-delay:5.38s"><text x="20" y="263" fill="#0969da" font-weight="bold">Research</text><text x="102" y="263" fill="#59636e">:</text><text x="112" y="263" fill="#1f2328">Detecting Cross-Cultural Phishing Attacks</text></g>
+<g class="l" style="animation-delay:5.76s"><text x="20" y="282" fill="#0969da" font-weight="bold">Certs</text><text x="102" y="282" fill="#59636e">:</text><text x="112" y="282" fill="#1f2328">CEH Practical</text></g>
+<g class="l" style="animation-delay:6.14s"><text x="20" y="301" fill="#0969da" font-weight="bold">Building</text><text x="102" y="301" fill="#59636e">:</text><text x="112" y="301" fill="#1f2328">Cyrillic-Guard, federated learning for</text></g>
+<g class="l" style="animation-delay:6.52s"><text x="112" y="320" fill="#1f2328">security logs</text></g>
+<g class="l" style="animation-delay:6.90s"><text x="20" y="339" fill="#0969da" font-weight="bold">LinkedIn</text><text x="102" y="339" fill="#59636e">:</text><text x="112" y="339" fill="#1f2328">linkedin.com/in/verifiedsuraj</text></g>
+<g class="l" style="animation-delay:7.28s">
+<rect x="20" y="364" width="22" height="14" rx="2" fill="#f85149"/>
+<rect x="46" y="364" width="22" height="14" rx="2" fill="#9a6700"/>
+<rect x="72" y="364" width="22" height="14" rx="2" fill="#1a7f37"/>
+<rect x="98" y="364" width="22" height="14" rx="2" fill="#0969da"/>
+<rect x="124" y="364" width="22" height="14" rx="2" fill="#bc8cff"/>
+<rect x="150" y="364" width="22" height="14" rx="2" fill="#1b7c83"/>
+<rect x="176" y="364" width="22" height="14" rx="2" fill="#1f2328"/>
+<rect x="202" y="364" width="22" height="14" rx="2" fill="#6e7781"/>
+</g>
+</g></svg>

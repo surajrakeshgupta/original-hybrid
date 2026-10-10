@@ -1,0 +1,6 @@
+# only needed on your own machine when you (re)make the portrait
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime
